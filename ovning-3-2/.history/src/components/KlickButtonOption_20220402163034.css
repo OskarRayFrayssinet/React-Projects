@@ -1,0 +1,20 @@
+.openInsults, .generateRandomInsult {
+    position: absolute;
+    bottom: 0;
+    width: 50vw;
+    height: 100px;
+    background: white;
+}
+.openInsults {
+    bottom: 0;
+}
+.generateRandomInsult {
+    bottom: 0;
+    right: 0;
+}
+.buttonNotFound {
+    width: 100px;
+    height: 100px;
+    background: black;
+    opacity: 0.5;
+}

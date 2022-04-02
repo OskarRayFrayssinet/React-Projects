@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  background: url('../theater-background1.png') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  
+}
+
+/*Tips på typsnitt: MedievalSharp IM Fell English SC*/

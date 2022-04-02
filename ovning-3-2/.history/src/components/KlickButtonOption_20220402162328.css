@@ -1,0 +1,16 @@
+.openInsults {
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+.generateRandomInsult {
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+.buttonNotFound {
+    width: 100px;
+    height: 100px;
+    background: black;
+    border: 1px solid white;
+}

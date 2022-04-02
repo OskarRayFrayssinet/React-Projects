@@ -1,0 +1,10 @@
+.openInsults {
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+.generateRandomInsult {
+    width: 100px;
+    height: 100px;
+    background: red;
+}

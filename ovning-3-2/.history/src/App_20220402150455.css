@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: url('../theater-background1.png') no-repeat center center fixed;
+  background-size: cover;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 100px auto auto;
+}
+
+/*Tips på typsnitt: MedievalSharp IM Fell English SC*/

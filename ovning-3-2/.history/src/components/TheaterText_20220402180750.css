@@ -1,0 +1,25 @@
+.textContainer {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+@import url('http://fonts.cdnfonts.com/css/im-fell-english-sc');
+p {
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: 'IM FELL English SC', sans-serif;
+    user-select: none;
+}
+.insultPlay {
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+listObjectContainer
+.listObjectContainer p {
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

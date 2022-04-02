@@ -1,0 +1,10 @@
+.klickButtonOpenInsults {
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+.klickButtonGenerateRandomInsult {
+    width: 100px;
+    height: 100px;
+    background: red;
+}

@@ -1,0 +1,13 @@
+
+
+@import url('http://fonts.cdnfonts.com/css/im-fell-english-sc');
+p {
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: 'IM FELL English SC', sans-serif;
+}
+.textContainer {
+    grid-column: 3;
+}
