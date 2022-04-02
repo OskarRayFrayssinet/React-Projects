@@ -1,0 +1,10 @@
+.bookingContainer {
+    height: 530px;
+    width: 350px;
+    background: whitesmoke;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 13% 12% 15% 12% 13% 13%
+    5%;
+}

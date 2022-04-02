@@ -1,0 +1,13 @@
+.bookingContainer {
+    height: 500px;
+    width: 400px;
+    background: whitesmoke;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 20% 10% 70%;
+}
+.transportHeader {
+    background: red;
+    grid-row: 1;
+}

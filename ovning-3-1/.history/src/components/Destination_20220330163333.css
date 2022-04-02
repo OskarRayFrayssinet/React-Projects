@@ -1,0 +1,7 @@
+.destinationContainer {
+    background: green;
+}
+.destinationContainer p {
+    text-align: center;
+    font-size: 20px;
+}

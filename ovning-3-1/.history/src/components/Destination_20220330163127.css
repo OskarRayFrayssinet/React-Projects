@@ -1,0 +1,8 @@
+.destinationContainer {
+    background: green;
+    display: table;
+}
+.destinationContainer p {
+    display: table-cell;
+    vertical-align: middle;
+}

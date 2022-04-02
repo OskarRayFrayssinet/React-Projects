@@ -1,0 +1,9 @@
+html {
+  height: 100vh;
+}
+body {
+  background: grey;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

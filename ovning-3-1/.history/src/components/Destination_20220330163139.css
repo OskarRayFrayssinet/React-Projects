@@ -1,0 +1,6 @@
+.destinationContainer {
+    background: green;
+}
+.destinationContainer p {
+    display: table;
+}

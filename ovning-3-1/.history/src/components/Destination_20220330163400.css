@@ -1,0 +1,11 @@
+.destinationContainer {
+    background: green;
+    display: table;
+}
+.destinationContainer p {
+    display: table-cell;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 20px;
+}

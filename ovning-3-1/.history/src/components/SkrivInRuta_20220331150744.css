@@ -1,0 +1,20 @@
+.skrivContainer {
+    display: grid;
+    grid-template-rows: 20% 80%;
+    margin-left: 12px;
+    margin-right: 12px;
+    grid-column: 1 / 3;
+}
+.textPtag {
+    font-size: 12px;
+    grid-row: 1;
+    margin: 0;
+    padding: 0;
+}
+.ruta {
+    margin-top: 3px;
+    width:85%;
+    height: auto;
+    border-radius: 5px;
+    border: solid grey 1px;
+}

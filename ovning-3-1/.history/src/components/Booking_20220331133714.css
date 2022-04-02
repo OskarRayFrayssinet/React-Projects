@@ -1,0 +1,12 @@
+.bookingContainer {
+    height: 500px;
+    width: 400px;
+    background: whitesmoke;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 18% 12% 30%;
+}
+.ticketAltContainer {
+    width: 100%;
+}

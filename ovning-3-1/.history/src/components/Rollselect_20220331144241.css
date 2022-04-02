@@ -1,0 +1,8 @@
+.rollContainer {
+    display: grid;
+    grid-template-rows: 20% 80%;
+    align-items: center;
+}
+.roller {
+    width:85%;
+}

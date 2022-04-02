@@ -1,0 +1,15 @@
+.rollContainer {
+    display: grid;
+    grid-template-rows: 20% 80%;
+    margin-left: 12px;
+}
+.rollerPtag {
+    font-size: 12px;
+    grid-row: 1;
+    margin: 0;
+    padding: 0;;
+}
+.roller {
+    width:85%;
+    height: auto;
+}

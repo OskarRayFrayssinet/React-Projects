@@ -1,0 +1,6 @@
+.ticketAltContainer {
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    gap: 10px;
+}

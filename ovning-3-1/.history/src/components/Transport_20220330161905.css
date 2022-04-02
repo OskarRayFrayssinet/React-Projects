@@ -1,0 +1,18 @@
+.transportContainer {
+    margin: 0;
+    padding: 0;
+    background: red;
+    grid-column: 1 /3;
+    grid-row: 1;
+    border-radius: 10px 10px 0 0;
+    display: table;
+}
+.transport_pTag {
+    margin: 0;
+    padding: 0;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 40px;
+    font-weight: bolder;
+}

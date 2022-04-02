@@ -1,0 +1,9 @@
+body {
+  background: grey;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.App {
+  height: 100vh;
+}

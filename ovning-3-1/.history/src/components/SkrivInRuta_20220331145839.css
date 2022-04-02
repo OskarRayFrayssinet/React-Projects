@@ -1,0 +1,6 @@
+.skrivContainer {
+    display: grid;
+    grid-template-rows: 20% 80%;
+    margin-left: 12px;
+    grid-column: 1 / 2;
+}

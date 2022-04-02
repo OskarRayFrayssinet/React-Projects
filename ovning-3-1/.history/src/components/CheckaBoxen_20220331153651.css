@@ -1,0 +1,14 @@
+.checkaBoxenContainer {
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    gap: 5px;
+    margin: 0;
+    padding: 0;
+}
+.checkaBoxenContainer p {
+    font-size: 15px;
+}
+.checkAlt {
+    margin-left: 20px;
+}
