@@ -1,0 +1,32 @@
+div {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 350px;
+    width: 250px;
+    background: red;
+}
+.titleBox {
+    height: 70px;
+    width: 100%;
+    background: blue;
+    display: table;
+}
+.titleText {
+    height: 100px;
+    width: 250px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 18px;
+    color: aliceblue;
+}
+.titleAuthor {
+    height: 20%;
+    width: 250px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 12px;
+}

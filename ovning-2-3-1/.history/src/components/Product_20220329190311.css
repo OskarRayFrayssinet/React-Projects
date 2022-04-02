@@ -1,0 +1,54 @@
+div, p {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 350px;
+    width: 250px;
+    background: red;
+    display: grid;
+    grid-template-columns: 75px 100px 75px;
+    grid-template-rows: 70px auto 50px auto;
+}
+.titleBox {
+    grid-row: 1;
+    grid-column: 1 /4;
+    height: 70px;
+    width: 100%;
+    background: black;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 60% 40%;
+}
+.titleText {
+    grid-row: 1;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.titleAuthor {
+    grid-row: 2;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: aliceblue;
+}
+.addToCart {
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: green;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 20px;
+    user-select: none;
+    grid-row: 3;
+    grid-column: 2;
+}
+.description {
+    grid-row: 2;
+}

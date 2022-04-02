@@ -1,0 +1,17 @@
+.container {
+    height: 350px;
+    width: 250px;
+    background: red;
+}
+.titleBox {
+    height: 70px;
+    width: 100%;
+    background: blue;
+    display: table;
+}
+.titleBox p {
+    height: 100%;
+    width: 100%;
+    display: table-cell;
+    text-align: center;
+}
